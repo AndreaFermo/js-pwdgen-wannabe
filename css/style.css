@@ -1,0 +1,6 @@
+h1#passwordGenerated {
+    text-align: center;
+    font-size: 10rem;
+    color: pink;
+    background-color: rgba(0, 0, 0, 0.7);
+}
